@@ -1,0 +1,73 @@
+.navbar-inverse .diem-ban {
+    color: #fff;
+}
+
+.navbar-inverse .diem-ban:hover {
+    color: #fff;
+}
+
+.obligatory {
+    color: red;
+}
+
+.is-invalid {
+    border: 1px solid red;
+}
+.is-invalid-info {
+    color: red;
+}
+
+.ten-diem-ban {
+    color:rgb(253, 70, 70);
+}
+
+.info-usser {
+    padding:20px 30px;
+    text-align: center;
+}
+
+.info-usser .link-profile {
+    color: rgb(3, 104, 3);
+    font-size: 1.7rem;
+    font-weight: 600;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.info-usser .avatar {
+    border-radius: 50px;
+    display: inline-block;
+    width: auto;
+    overflow: hidden;
+}
+
+.close-form {
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.close-form:hover {
+    color: #fff;
+    background-color: red;
+}
+
+.form-add {
+    display: none;
+}
+
+.form-edit {
+    display: none;
+}
+
+.open-form {
+    display: block;
+}
+
+.chartAreaWrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+
